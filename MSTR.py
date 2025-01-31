@@ -449,3 +449,7 @@ print(5 + (4 * 10) / 2)
 # guess 25
 print(5 + 4 * 10 // 2)
 # guess 25
+
+print(bin(9))
+print(int('0b101', 2))
+print(int('0b10001',2))
