@@ -392,3 +392,36 @@ my_pets = Pets(my_cats)
 #4 Output all of the cats walking using the my_pets instance
 
 my_pets.walk()
+
+# New code 1/31
+
+# Fundamental Data types
+#integers 2, 4, 5, 100, 10000,
+
+print(2+4)
+print(2-4)
+print(2*4)
+print(2/4)
+# find the data type using "type"
+
+print(type(6))
+# result <class 'int'>
+
+print(type(5.003))
+# result <class 'float'>
+
+# Data is stored in binary "000" and "111"
+
+# We can do math operation in pythons
+
+# "**" is the power operation
+print(2**9)
+# "// is divided into without the remainder" 
+print(500//3)
+# '% or modulo operation' for the remainder only
+print(20%3) 
+# "round" is a operation
+print(round(30.23))
+# "abs" is absolute vale operation
+
+print(abs(-422))
