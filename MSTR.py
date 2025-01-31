@@ -453,3 +453,29 @@ print(5 + 4 * 10 // 2)
 print(bin(9))
 print(int('0b101', 2))
 print(int('0b10001',2))
+
+#New code variables and rules to creating them 
+
+# int 
+# float 
+# complex 
+
+
+# variables
+# text used to store values in memory
+IQ = 190
+
+print(IQ)
+
+rules for variables
+
+# snake_case
+# Start with lowercase or underscore
+# contain letters, numbers or underscores only
+# Case sensitive 
+# Dont overwrite keywords (reused variable in memory)
+
+#underscore in python signals a private variable 
+_myIQ = 120 #"private"
+
+avgIQ = 100 #"public"
