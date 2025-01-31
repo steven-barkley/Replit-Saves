@@ -479,3 +479,31 @@ rules for variables
 _myIQ = 120 #"private"
 
 avgIQ = 100 #"public"
+
+#Statements and expressions
+
+iq = 100
+
+user_age = iq/5
+
+# A statement is simply a line of code
+# i.e iq = 100
+
+# An expression produces a value "iq/5" = 20
+
+# print(type('hi hello there 24!'))
+# username = 'supercoder'
+# password = 'supersecret'
+# long_string = '''
+# WOW
+# 0 0
+# ---
+# '''
+
+# print(long_string)
+
+first_name = "Steven"
+last_name = "Barkley"
+full_name = first_name + " " + "last_name"
+
+print(full_name)
