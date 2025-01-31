@@ -425,3 +425,27 @@ print(round(30.23))
 # "abs" is absolute vale operation
 
 print(abs(-422))
+# New code
+
+# operator precedence 
+
+print(20 + 3 * 4)
+
+#1 ()
+#2 **
+#3 /
+#4 -+
+
+# Guess the output of each answer before you click RUN
+# Try to write down your answer before and see how you do... keep it mind I made it a little tricky for you :)
+
+print((5 + 4) * 10 / 2)
+# guess 45
+print(((5 + 4) * 10) / 2)
+# guess 45
+print((5 + 4) * (10 / 2))
+# guess 45
+print(5 + (4 * 10) / 2)
+# guess 25
+print(5 + 4 * 10 // 2)
+# guess 25
