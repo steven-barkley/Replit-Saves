@@ -507,3 +507,57 @@ last_name = "Barkley"
 full_name = first_name + " " + "last_name"
 
 print(full_name)
+
+
+# for example "str" is a keyword
+
+print(str(100))
+
+print(type(str(100)))
+
+print(type(int(str(100))))
+
+# above is type conversion
+
+# for example "str" is a keyword
+
+print(str(100))
+
+print(type(str(100)))
+
+print(type(int(str(100))))
+
+# above is type conversion
+
+
+# Escape Sequence
+
+# \ is a special character to denote ignoring string syntax
+
+# \t
+# \n 
+# \d
+# \'
+# \f etc. 
+
+# Tuples
+
+# formatted strings 
+
+name = "David"
+age = 29 
+
+print('hi {1}. You are {0} years old'.format(name, age))
+
+# formatting strings
+
+# indexing into strings
+
+selfish = 'me me me'
+
+print(selfish[0:-1])
+#stepover
+print(selfish[0:8:2])
+print(selfish[1:])
+
+#[start:stop:step]
