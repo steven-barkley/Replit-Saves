@@ -561,3 +561,5 @@ print(selfish[0:8:2])
 print(selfish[1:])
 
 #[start:stop:step]
+
+#Will continue Python Zero to Mastery tomorrow.
