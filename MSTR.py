@@ -562,4 +562,6 @@ print(selfish[1:])
 
 #[start:stop:step]
 
-#Will continue Python Zero to Mastery tomorrow.I did not do anything.
+#Will continue Python Zero to Mastery tomorrow. I did not do anything.
+
+Today I am finally remaking my resume using AI.
