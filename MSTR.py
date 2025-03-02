@@ -565,3 +565,4 @@ print(selfish[1:])
 #Will continue Python Zero to Mastery tomorrow. I did not do anything.
 
 Today I am finally remaking my resume using AI.
+Maybe start by building something simple and using the CD/CI method to extend the function and uses.
